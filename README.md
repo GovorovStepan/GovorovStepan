@@ -1,16 +1,13 @@
-### Hi there 👋
+Full-stack Developer 👋
 
-<!--
-**GovorovStepan/GovorovStepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###📋 Work Experience:
+Development of widgets for AmoCRM and Bitrix24.
+Development of payroll and reporting applications for SK Nebo using Vue.js, PHP, DevExtreme DataGrid, Ant Design.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###👨🏻‍💻 Skills:
+Advanced: PHP, Javascript,  HTML, CSS.
+Intermediate: Laravel, Vue.js, React, Netlify CMS,  Webpack, Ant Design, .
+Basic: C, Python.
+###📫 Contacts
+Email: stepangovorov5911@gmail.com
+Telegram: @gsp_mos
