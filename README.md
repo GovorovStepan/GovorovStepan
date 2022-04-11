@@ -15,4 +15,4 @@ Basic: C, Python.
 ### 📫 Contacts
 Email: stepangovorov5911@gmail.com
 
-Telegram: @gsp_mos
+Telegram: (@gsp_mos)[https://t.me/gsp_mos]
