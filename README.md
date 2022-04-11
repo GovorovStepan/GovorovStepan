@@ -6,7 +6,7 @@ Development of payroll and reporting applications for SK Nebo using Vue.js, PHP,
 
 ### 👨🏻‍💻 Skills:
 Advanced: PHP, Javascript,  HTML, CSS.
-Intermediate: Laravel, Vue.js, React, Netlify CMS,  Webpack, Ant Design, .
+Intermediate: Laravel, Vue.js, React, Netlify CMS,  Webpack, Ant Design.
 Basic: C, Python.
 
 ### 📫 Contacts
