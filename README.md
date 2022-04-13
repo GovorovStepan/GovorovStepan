@@ -15,9 +15,9 @@ Creating an application for interacting with the Bitrix24 API to implement the w
 
 
 ### 👨🏻‍💻 Skills:
-Advanced: PHP, Javascript,  HTML, CSS.
+Advanced: PHP, Javascript,  HTML, CSS, Ant Design.
 
-Intermediate: Laravel, Vue.js, React, Netlify CMS,  Webpack, Ant Design.
+Intermediate: Laravel, Vue.js, React, Netlify CMS,  Webpack.
 
 Basic: C, Python.
 
