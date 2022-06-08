@@ -19,7 +19,7 @@ Advanced: PHP, JS, HTML, CSS.
 
 Intermediate: Laravel, Vue.js, React, Netlify CMS.
 
-Basic: C, Python.
+Basic: C, Python. SQL
 
 ### 📫 Contacts
 Email: stepangovorov5911@gmail.com
