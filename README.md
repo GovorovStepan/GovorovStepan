@@ -3,11 +3,9 @@ Full-stack Developer 👋
 ### 📋 Work Experience:
 Development of widgets for AmoCRM and Bitrix24.
 
-Creating a video chat using WebRTC, React, node.js, socket.io (test task).
+Creating a video chat using WebRTC, React, node.js, socket.io.
 
-
-Development of payroll and reporting applications using Vue.js, PHP, DevExtreme DataGrid, Ant Design.
-
+Development of payroll and reporting applications using Vue.js,React, PHP, DevExtreme DataGrid, Ant Design.
 
 Creating company regulations using vuepress and netlify CMS.
 
