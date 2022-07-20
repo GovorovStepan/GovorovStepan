@@ -15,9 +15,9 @@ Creating an application for interacting with the Bitrix24 API to implement the w
 ### 👨🏻‍💻 Skills:
 Advanced: PHP, JS, HTML, CSS.
 
-Intermediate: Laravel, Vue.js, React, Netlify CMS
+Intermediate: React, Vue.js, Laravel, SQL, mongodb,Netlify CMS
 
-Basic: C, Python. SQL, mongodb, meteor.js
+Basic: C, Python, meteor.js, docker
 
 ### 📫 Contacts
 Email: stepangovorov5911@gmail.com
