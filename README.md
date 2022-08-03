@@ -23,3 +23,5 @@ Basic: C, Python, meteor.js, docker, TypeScript
 Email: stepangovorov5911@gmail.com
 
 Telegram: [@gsp_mos](https://t.me/gsp_mos)
+
+Codewars: [GovorovStepan](https://www.codewars.com/users/GovorovStepan)
