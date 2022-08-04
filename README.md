@@ -24,4 +24,6 @@ Email: stepangovorov5911@gmail.com
 
 Telegram: [@gsp_mos](https://t.me/gsp_mos)
 
+### Additional info
+
 Codewars: [GovorovStepan](https://www.codewars.com/users/GovorovStepan)
