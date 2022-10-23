@@ -22,7 +22,7 @@ Basic: C, Python, meteor.js, docker, TypeScript
 ### 📫 Contacts
 Email: stepangovorov5911@gmail.com
 
-Telegram: [@gsp_mos](https://t.me/gsp_mos)
+Telegram: [@gsp_ex](https://t.me/gsp_ex)
 
 ### Additional info
 
