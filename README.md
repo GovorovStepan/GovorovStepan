@@ -1,23 +1,15 @@
 Full-stack Developer 👋
 
-### 📋 Work Experience:
-Development of widgets for AmoCRM and Bitrix24.
+### 📋 Experience:
+I have 3 years experience as fullstack developer.
 
-Creating a video chat using WebRTC, React, node.js, socket.io.
+You can find more in my [resume](https://gsp-docs.s3.jp-tok.cloud-object-storage.appdomain.cloud/Stepan%20Govorov%20-%20Fullstack%20developer.pdf)
 
-Development of payroll and reporting applications using Vue.js,React, PHP, DevExtreme, Ant Design.
-
-Creating company regulations using vuepress and netlify CMS.
-
-Creating an application for interacting with the Bitrix24 API to implement the work of the department.
-
+Do not forget check my IBM Certification on [Coursera](https://coursera.org/share/a2fac7f2ca1af96e91f8600eb22ce8b1)
 
 ### 👨🏻‍💻 Skills:
-Advanced: PHP, JavaScript
-
-Intermediate: React, Vue.js, Laravel, MySQL, MongoDB, Netlify CMS
-
-Basic: C, Python, meteor.js, docker, TypeScript
+PHP , Laravel , Python , Django , Node.js , JavaScript , React , Vue , HTML , CSS , Oracle , MS Sql , Mysql , Docker , Kubernetes , OpenShift ,
+MongoDB
 
 ### 📫 Contacts
 Email: stepangovorov5911@gmail.com
@@ -26,4 +18,4 @@ Telegram: [@gsp_ex](https://t.me/gsp_ex)
 
 ### Additional info
 
-Codewars: [GovorovStepan](https://www.codewars.com/users/GovorovStepan)
+[LeetCode]((https://leetcode.com/GovorovStepan/))
