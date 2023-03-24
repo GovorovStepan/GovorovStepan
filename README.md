@@ -18,4 +18,4 @@ Telegram: [@gsp_ex](https://t.me/gsp_ex)
 
 ### Additional info
 
-[LeetCode]((https://leetcode.com/GovorovStepan/))
+[LeetCode](https://leetcode.com/GovorovStepan/)
