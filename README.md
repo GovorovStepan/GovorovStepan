@@ -8,7 +8,7 @@ You can find more in my [resume](https://gsp-docs.s3.jp-tok.cloud-object-storage
 Do not forget check my IBM Certification on [Coursera](https://coursera.org/share/a2fac7f2ca1af96e91f8600eb22ce8b1)
 
 ### 👨🏻‍💻 Skills:
-PHP , Laravel , Python , Django , Node.js , JavaScript , React , Vue , HTML , CSS , Oracle , MS Sql , Mysql , Docker , Kubernetes , OpenShift ,
+PHP , Laravel , Python , Django , Node.js , JavaScript , React , Next.js , Vue , Oracle , MS Sql , Mysql , Docker , Kubernetes , OpenShift ,
 MongoDB
 
 ### 📫 Contacts
